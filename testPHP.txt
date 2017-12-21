@@ -1,2 +1,3 @@
 Non, ce n'est pas encore mon code source.....
 Cette ligne est un ajout.
+Voici une simulation de modification effectué en ligne ou par un dév.
